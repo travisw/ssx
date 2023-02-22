@@ -18,6 +18,7 @@ https://docs.ssx.id
 - `npm run build` - Build all packages
 - `npm run examples` - Concurrently run the example server and app found in `./examples`
 - `npm run clean` - Remove all build artifacts and node_modules
+- testing
 
 ## Docker
 
